@@ -1,6 +1,6 @@
 ### Mobile_Sales_Onyx
 
-#### Interactive Report: 
+#### Interactive Report: https://app.powerbi.com/view?r=eyJrIjoiYzgzMzQ1MTAtMmVhOS00MzkxLWIxMWUtMDYwZWQwYTY4NzUyIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9
 Mobile_sales_Onyx_Data_challenge
 ### Overview
 This Report provides a clear visual summary of mobile phone sales performance in 2024, including volume sold, revenue distribution, brand performance, regional insights, and demographic-based revenue segmentation.
